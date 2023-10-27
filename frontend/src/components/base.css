@@ -1,0 +1,52 @@
+.card {
+    width: 700px;
+    margin: 10px auto;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.d-block {
+    display: block;
+}
+
+.margin-form-item {
+    margin: 20px 0px;
+}
+
+.submit-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.margin-auto{
+    max-width: 0px auto;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.primary{
+    color: #1677ff;
+}
+.header{
+    text-align: center;
+    font-weight: bold;
+}
+.pointer{
+    cursor: pointer;
+}
+.margin-form-item{
+    margin: 10px 0px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.test-center{
+    text-align: center;
+}
